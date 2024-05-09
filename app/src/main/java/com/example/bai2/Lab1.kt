@@ -30,6 +30,11 @@ fun main() {
     println("Hiệu: " + (a - b))
     println("Tích: " + (a * b))
     println("Thương: " + (a / b))
+
+
+
+
+
 }
 
 class Lab1 {
